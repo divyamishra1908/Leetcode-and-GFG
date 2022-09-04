@@ -1,2 +1,2 @@
 # Leetcode and GeeksForGeeks 
-Daily leetcode problem solution
+Daily leetcode and geeksforgeeks problem solution
